@@ -15,4 +15,5 @@ function PersonList({ tasks, onEdit, onDelete }) {
   );
 }
 
+
 export default PersonList;

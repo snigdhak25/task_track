@@ -24,4 +24,5 @@ function PersonItem({ task, onEdit, onDelete }) {
   );
 }
 
+
 export default PersonItem;
